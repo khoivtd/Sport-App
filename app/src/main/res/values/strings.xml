@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sport App</string>
+    <string name="upcoming_match_started">Upcoming match stated!</string>
+    <string name="no_records_synced_yet">No matches were synced in the app. Please enable your internet connection so you can stay up-to-date!</string>
+    <string name="no_upcoming_match_planned">There are no upcoming matches yet</string>
+    <string name="conn_dialog_title">No Internet Connection Available</string>
+    <string name="conn_dialog_msg">This application requires an internet connection to work properly. Please either enable your Wi-Fi or your Cellular Data, from the options below.</string>
+    <string name="conn_dialog_option_wifi">Wifi</string>
+    <string name="conn_dialog_option_data">Data</string>
+    <string name="conn_dialog_option_cancel">Cancel</string>
+    <string name="vs">VS</string>
+    <string name="teams">Teams</string>
+    <string name="matches">Matches</string>
+    <string name="previous_matches">Previous Matches</string>
+    <string name="upcoming_matches">Upcoming Matches</string>
+</resources>
