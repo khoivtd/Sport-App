@@ -19,6 +19,8 @@
 
 - **Material / Material 3**
 
+- **Video Player Compose**
+
 ## Functionalities or technical details that wanted to add if had additional time
 
 - **User Authentication: Implement user authentication using Firebase Authentication to provide personalized experiences and user-specific reminders.**
